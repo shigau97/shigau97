@@ -11,7 +11,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Tools**: VS Code, Git, Docker
 
 ## Projects
-- Text Mining in Heterogeneous Database systems 1: A master's project based on NLP, NLTK, SpaCy Libraries incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, sperate tokens, lemmetization, analysis incorporating MongoDB and Power BI with interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboard and make changes in the lease as per requirement. 
+- Text Mining in Heterogeneous Database systems : A master's project based on NLP, NLTK, SpaCy Libraries incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, sperate tokens, lemmetization, analysis incorporating MongoDB and Power BI with interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboard and make changes in the lease as per requirement. 
 - Book Recommendation System: An undergrad project built on Hadoop for big data analysis of different recommendation based architectures and comparative analysis. Advant: understood which algorithms would be beneficial to use for what kind of database through survey and implementation analysis on library book dataset.
 
 ## I am ...
@@ -28,6 +28,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Email**: dev.shivanigautam@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shivani-gautam1
 - **Twitter**: @shigau97
+- **Linktree**: https://linktr.ee/shigau97
 
 <!--
 **shigau97/shigau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
