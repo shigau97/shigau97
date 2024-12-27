@@ -1,12 +1,8 @@
-## Hi there 👋
-
-# I'm Shivani Gautam 👋
-
-## About Me
+## Hi there, I'm Shivani Gautam 👋
 I'm a passionate developer with a love for creating innovative solutions. I specialize in working with machine learning models for image processing and interpretability. I am pursuing a doctoral degreen in CS, probably will finish my research by next year specializing in machine learning. I have background in Information Technology with some research works in WSN and Cryptography. 
 
 ## Skills
-- **Languages**: Python, Java
+- **Languages**: Python, Java, SQL, HTML, CSS, JS
 - **Frameworks**: React
 - **Tools**: VS Code, Git, Docker
 
@@ -22,7 +18,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - 💬 Ask me about art, photography, anime, japanese, women in tech
 - 📫 How to reach me: discord channel
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am still finding it myself, maybe I am a lengendary ranker in COD mobile gaming. Top 8800 ranker in Global ranking.(98% better than other players)
+- ⚡ Fun fact: I am a lengendary ranker in COD mobile gaming. Top 8800 ranker in Global ranking.(98% better than other players)
 
 ## Contact
 - **Email**: dev.shivanigautam@gmail.com
