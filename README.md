@@ -25,6 +25,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **LinkedIn**: https://www.linkedin.com/in/shivani-gautam1
 - **Twitter**: @shigau97
 - **Linktree**: https://linktr.ee/shigau97
+- **Github**: https://shigau97.github.io
 
 <!--
 **shigau97/shigau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
