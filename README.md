@@ -27,6 +27,9 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Linktree**: https://linktr.ee/shigau97
 - **Github**: https://shigau97.github.io
 
+##Recent Blog at WordPress:
+- First Fargo Half Marathon 'Finisher' - https://shigau97.wordpress.com/2025/06/04/the-fargo-half-marathon-2025-my-very-first-experience/
+
 <!--
 **shigau97/shigau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
