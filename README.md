@@ -18,7 +18,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - 💬 Ask me about art, photography, anime, Japanese language, women in tech, sports
 - 📫 How to reach me: Discord channel @kee_shivani
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a legendary ranker in COD mobile gaming. Top 8800 ranker in the Global ranking. (98% better than other players) - Duh, they updated the season, so maybe not anymore.
+- ⚡ Fun fact: I am a legendary ranker in COD mobile gaming. Top 8800 ranker in the Global ranking. (98% better than other players) - Duh, they updated the season, so maybe not anymore. Have you checked 'Delta Force - warfare yet!! It's pretty cool with specs. 
 
 ## Contact
 - **Email**: dev.shivanigautam@gmail.com
