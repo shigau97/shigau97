@@ -1,5 +1,5 @@
 ## Hi there, I'm Shivani Gautam 👋
-I'm a passionate developer with a love for creating innovative solutions. I specialize in working with machine learning models for image processing and interpretability. I am pursuing a doctoral degreen in CS, probably will finish my research by next year specializing in machine learning. I have background in Information Technology with some research works in WSN and Cryptography. 
+I'm a passionate developer with a love for creating innovative solutions. I specialize in working with machine learning models for image processing and interpretability. I am pursuing a doctoral degree in CS, and will probably finish my research by next year 2026, specializing in machine learning. I have a background in Information Technology with some research work in WSN and Cryptography. 
 
 ## Skills
 - **Languages**: Python, Java, SQL, HTML, CSS, JS
@@ -7,18 +7,18 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Tools**: VS Code, Git, Docker
 
 ## Projects
-- Text Mining in Heterogeneous Database systems : A master's project based on NLP, NLTK, SpaCy Libraries incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, sperate tokens, lemmetization, analysis incorporating MongoDB and Power BI with interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboard and make changes in the lease as per requirement. 
-- Book Recommendation System: An undergrad project built on Hadoop for big data analysis of different recommendation based architectures and comparative analysis. Advant: understood which algorithms would be beneficial to use for what kind of database through survey and implementation analysis on library book dataset.
+- Text Mining in Heterogeneous Database systems: A master's project based on NLP, NLTK, SpaCy Libraries, incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, separating tokens, lemmatization, analysis, incorporating MongoDB and Power BI with an interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboards and make changes in the lease as per requirement. 
+- Book Recommendation System: An undergrad project built on Hadoop for big data analysis of different recommendation-based architectures and comparative analysis. Advant: understood which algorithms would be beneficial to use for what kind of database through survey and implementation analysis on the library book dataset.
 
 ## I am ...
 - 🔭 I’m currently working on machine learning models that can explain black box structures
-- 🌱 I’m currently learning llm and Ai agents
-- 👯 I’m looking to collaborate on projects based on medical field related dataset based analysis, can be images or text based.
+- 🌱 I’m currently learning LLM and AI agents. Also, a lot about GPUs and optimization at my internship. 
+- 👯 I’m looking to collaborate on projects based on medical field-related dataset-based analysis, which can be image-based or text-based.
 - 🤔 I’m looking for help with Ai Agents - creation and manipulation for usage
-- 💬 Ask me about art, photography, anime, japanese, women in tech
-- 📫 How to reach me: discord channel
+- 💬 Ask me about art, photography, anime, Japanese language, women in tech, sports
+- 📫 How to reach me: Discord channel @kee_shivani
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a lengendary ranker in COD mobile gaming. Top 8800 ranker in Global ranking.(98% better than other players)
+- ⚡ Fun fact: I am a legendary ranker in COD mobile gaming. Top 8800 ranker in the Global ranking. (98% better than other players) - Duh, they updated the season, so maybe not anymore.
 
 ## Contact
 - **Email**: dev.shivanigautam@gmail.com
