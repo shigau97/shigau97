@@ -30,6 +30,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 ## Recent Blog at WordPress:
 - My first Fargo Half Marathon - 'Finisher' - https://shigau97.wordpress.com/2025/06/04/the-fargo-half-marathon-2025-my-very-first-experience/
 - First B4U Scholar trip to Bayer - https://shigau97.wordpress.com/2025/06/16/from-start-to-end-1-day-trip-as-a-scholar/
+- From Fargo to San Francisco - for an AI Conference - https://shigau97.wordpress.com/2025/09/24/from-fargo-to-san-francisco-for-an-ai-conference/
 
 <!--
 **shigau97/shigau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
