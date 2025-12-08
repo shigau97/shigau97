@@ -14,7 +14,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 Python | PyTorch | TensorFlow | Transformers | SLURM/HPC | scikit-learn | pandas | NumPy
 
 ## Projects
-- 
+- MSFormer based multiclass classification of cybersecurity dataset highlighting usage of CBSequence based word2vec embeddings, clustering, fusion, SMOTE, interpretable. 
 - Text Mining in Heterogeneous Database systems: A master's project based on NLP, NLTK, SpaCy Libraries, incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, separating tokens, lemmatization, analysis, incorporating MongoDB and Power BI with an interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboards and make changes in the lease as per requirement. 
 - Book Recommendation System: An undergrad project built on Hadoop for big data analysis of different recommendation-based architectures and comparative analysis. Advant: understood which algorithms would be beneficial to use for what kind of database through survey and implementation analysis on the library book dataset.
 
