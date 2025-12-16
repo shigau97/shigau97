@@ -11,9 +11,6 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **MSFormer**: Multi-modal malware classifier achieving 95.17% accuracy on 2.6M+ samples using transformer architectures. Published at IEEE CARS 2025
 - GPU optimization research at CCAST - Assisting with pbs-slurm translations of legacy codes
 
-## Tech Stack
-Python | PyTorch | TensorFlow | Transformers | SLURM/HPC | scikit-learn | pandas | NumPy
-
 ## Projects
 - MSFormer based multiclass classification of cybersecurity dataset highlighting usage of CBSequence based word2vec embeddings, clustering, fusion, SMOTE, interpretable. 
 - Text Mining in Heterogeneous Database systems: A master's project based on NLP, NLTK, SpaCy Libraries, incorporating real life Housing Lease Dataset. It involves scanning documents, reading like a normal OCR will do, separating tokens, lemmatization, analysis, incorporating MongoDB and Power BI with an interactive dashboard for customers. Advant: users don't have to rely on reading the huge number of pages of leases, they can just check the three dashboards and make changes in the lease as per requirement. 
