@@ -5,6 +5,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Languages**: Python, Java, SQL, HTML, CSS, JS
 - **Frameworks**: React
 - **Tools**: VS Code, Git, Docker
+- **Tech Stack**: Python, PyTorch, TensorFlow, PBS/SLURM/HPC, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, SHAP, LIME
 
 ## Research Highlights
 - **MSFormer**: Multi-modal malware classifier achieving 95.17% accuracy on 2.6M+ samples using transformer architectures. Published at IEEE CARS 2025
