@@ -8,7 +8,8 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Tech Stack**: Python, PyTorch, TensorFlow, PBS/SLURM/HPC, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, SHAP, LIME
 
 ## Research Highlights
-- **MSFormer**: Multi-modal malware classifier achieving 95.17% accuracy on 2.6M+ samples using transformer architectures. Published at IEEE CARS 2025
+- **MSFormer**: Multi-modal malware classifier achieving 95.17% accuracy on 2.6M+ samples using transformer architectures. Published at **IEEE CARS 2025**
+- **Finding Sparse Autoencoder Representations Of Errors In CoT Prompting**, J Theodorus, V Swaytha, S Gautam, A Ward, M Shah, C Blondin, K Zhu at **ICLR 2025** Workshop on Building Trust in Language Models and Applications
 - GPU optimization research at CCAST - Assisting with pbs-slurm translations of legacy codes
 
 ## Projects
