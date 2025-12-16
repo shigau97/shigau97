@@ -6,11 +6,11 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Frameworks**: React
 - **Tools**: VS Code, Git, Docker
 
-## 🔬 Research Highlights
+## Research Highlights
 - **MSFormer**: Multi-modal malware classifier achieving 95.17% accuracy on 2.6M+ samples using transformer architectures. Published at IEEE CARS 2025
 - GPU optimization research at CCAST - Assisting with pbs-slurm translations of legacy codes
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python | PyTorch | TensorFlow | Transformers | SLURM/HPC | scikit-learn | pandas | NumPy
 
 ## Projects
