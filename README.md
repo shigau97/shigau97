@@ -1,5 +1,5 @@
 ## Hi there, I'm Shivani Gautam 👋
-I'm a passionate developer with a love for creating innovative solutions. I specialize in working with machine learning models for image processing and interpretability. I am pursuing a doctoral degree in CS, and will probably finish my research by next year 2026, specializing in machine learning. I have a background in Information Technology with some research work in WSN and Cryptography. 
+I'm a passionate developer with a love for creating innovative solutions. I specialize in working with machine learning models for image processing and interpretability. I am pursuing a doctoral degree in CS and will finish my research by the end of 2026, specializing in machine learning. I have a background in Information Technology with some research work in WSN and Cryptography. 
 
 ## Skills
 - **Languages**: Python, Java, SQL, HTML, CSS, JS
@@ -31,7 +31,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **Email**: dev.shivanigautam@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shivani-gautam1
 - **Twitter**: @shigau97
-- **Linktree**: https://linktr.ee/shigau97
+- **Medium**: https://medium.com/@shigau97
 - **Github**: https://shigau97.github.io
 
 ## Recent Blog on WordPress:
