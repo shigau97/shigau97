@@ -22,7 +22,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - 🌱 I’m currently learning LLM and AI agents. Also, a lot about GPUs and optimization at my internship. 
 - 👯 I’m looking to collaborate on projects based on medical field-related dataset-based analysis, which can be image-based or text-based.
 - 🤔 I’m looking for help with AI agents creation and manipulation for usage
-- 💬 Ask me about art, photography, anime, Japanese language, women in tech, sports
+- 💬 Ask me about art, photography, anime, Japanese language, women in tech, sports - swim, run, badminton, pickleball, gym
 - 📫 How to reach me: Discord channel @kee_shivani
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a legendary ranker in COD mobile gaming. Top 8800 ranker in the Global ranking - Y 2023. 
@@ -32,7 +32,7 @@ I'm a passionate developer with a love for creating innovative solutions. I spec
 - **LinkedIn**: https://www.linkedin.com/in/shivani-gautam1
 - **Twitter**: @shigau97
 - **Medium**: https://medium.com/@shigau97
-- **Github**: https://shigau97.github.io
+- **Website**: https://shigau97.github.io
 
 ## Recent Blog on WordPress:
 - 2026: Not my 2nd Half Marathon - https://shigau97.wordpress.com/2026/06/04/not-my-2nd-time-running-a-half-marathon-my-fargo-marathon-experience/
